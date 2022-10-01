@@ -1,0 +1,43 @@
+body{
+    background-color: rgb(17, 189, 189);
+    font: normal;
+    text-align: center;
+}
+
+header {
+    color: white;
+    text-align: center;
+}
+div.bloco p#sexo{
+    box-shadow: 3px 5px 10px rgba(0, 0, 0, 0.555);
+}
+section{
+    background-color: white;
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    height: 425px;
+    box-shadow: 3px 5px 10px rgba(0, 0, 0, 0.555);
+    text-align: center;
+}
+
+div.bloco p#texto{
+    color: rgba(33, 13, 218, 0.767);
+        
+}
+
+div#res {
+    text-align: center;
+    border-radius: 50%;
+    width: 250px;
+    height: 250px;
+    margin: auto;
+}
+  
+footer{
+    color: white;
+    text-align: center;
+    font-style: italic;
+
+}
